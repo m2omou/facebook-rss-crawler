@@ -12,5 +12,5 @@
 	$config['appId'] = 'YOUR_APP_ID';
 	$config['secret'] = 'YOUR_APP_SECRET';
 	$config['fileUpload'] = false; // optional
-	$config['defaultPage'] = 'hackforla'; // by default hackforla fb page
+	$config['defaultPage'] = 'FB_PAGE'; // by default hackforla fb page
 ?>
